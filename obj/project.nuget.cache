@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0B7t+YNMVFD4K3ksWXgFHc4WtWvry0ClZmMHPPcnfWEiOIJxTqzDGNgkeDPrJSLthFk3uBAhILODEf50hcfzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gerardo\\Desktop\\Programacion estructurada\\ejercicio clase 10\\clase10-pe-cruzgerardo3\\clase10-pe-cruzgerardo3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packagesource'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
